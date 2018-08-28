@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 A few requirements to install, run and test this project.
 
 cd path/to/directory-your-directory
-- git clone https://github.com/jonathanmusila/StackOverflow-Lite.git
+- git clone https://github.com/jonathanmusila/FlaskREsPlus.git
  -Install virtual environment 
 - cd to ride-my-way-api and execute the following commands:
     
